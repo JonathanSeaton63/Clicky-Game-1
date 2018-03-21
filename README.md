@@ -7,11 +7,13 @@ This app is a memory game with React. The idea of the game is to click on the ca
 ![Screenshot](public/mario.png)
 
 ## Technologies used
-
 - React
 - Bootstrap
 - CSS
 - ES6
 
+## App Link
+https://julienguyen86.github.io/Clicky-Game/
+
 ## Author
-**Julie Nguyen** https://github.com/julienguyen86/Clicky-Game
+**Julie Nguyen**
